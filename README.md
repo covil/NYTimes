@@ -1,6 +1,4 @@
- NYTimesSearch
-
-** Nom de votre application ** est une application Android qui permet à un utilisateur de rechercher des articles sur le web en utilisant des filtres simples. L'application utilise [New York Times Search API] (http://developer.nytimes.com/docs/read/article_search_api_v2).
+ NYTimesSearch est une application Android qui permet à un utilisateur de rechercher des articles sur le web en utilisant des filtres simples. L'application utilise [New York Times Search API] (http://developer.nytimes.com/docs/read/article_search_api_v2).
 
 Temps passé:  8h au total
 
