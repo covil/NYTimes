@@ -1,12 +1,12 @@
-# Projet 2 - * NYTimesSearch*
+ NYTimesSearch
 
 ** Nom de votre application ** est une application Android qui permet à un utilisateur de rechercher des articles sur le web en utilisant des filtres simples. L'application utilise [New York Times Search API] (http://developer.nytimes.com/docs/read/article_search_api_v2).
 
-Temps passé: ** 8h** heures passées au total
+Temps passé:  8h au total
 
 ## Histoires d'utilisateurs
 
-La fonctionnalité ** requise ** suivante est terminée:
+La fonctionnalité requise 
 
 * [] L'utilisateur peut ** rechercher un article d'actualité ** en spécifiant une requête et en lançant une recherche. La recherche affiche une grille de résultats d'images de l'API de recherche du New York Times.
 * [] L'utilisateur peut cliquer sur "paramètres" qui permet la sélection de ** options de recherche avancée ** pour filtrer les résultats
@@ -18,29 +18,7 @@ La fonctionnalité ** requise ** suivante est terminée:
 * [] L'utilisateur peut appuyer sur n'importe quel article dans les résultats pour afficher le contenu dans un navigateur intégré.
 * [] L'utilisateur peut ** faire défiler vers le bas pour voir plus d'articles **. Le nombre maximal d'articles est limité par la recherche d'API.
 
-Les fonctionnalités ** optionnelles ** suivantes sont implémentées:
 
-* [] Implémente la gestion robuste des erreurs, [vérifier si Internet est disponible] (http://guides.codepath.com/android/Sending-and-Managing-Network-Requests#checking-for-network-connectivity), gérer les cas d'erreur , les pannes de réseau
-* [] Utilisé la ** ActionBar SearchView ** ou la mise en page personnalisée comme boîte de requête au lieu d'un EditText
-* [] L'utilisateur peut ** partager un lien d'article ** à ses amis ou lui envoyer un courriel
-* [] Remplacement de l'activité des paramètres de filtre avec une superposition modale légère
-
-Les fonctionnalités ** bonus ** suivantes sont implémentées:
-
-* [] Utilisez le [RecyclerView] (http://guides.codepath.com/android/Using-the-RecyclerView) avec le `StaggeredGridLayoutManager` pour afficher l'amélioration de la grille des résultats d'image
-* [] Pour les différents articles de presse qui n'ont que du texte ou seulement des images, utilisez [Disposition hétérogène] (http://guides.codepath.com/android/Heterogenous-Layouts-inside-RecyclerView) avec RecyclerView
-* [] Utilisez Parcelable au lieu de Serializable en utilisant la populaire [bibliothèque Parceler] (http://guides.codepath.com/android/Using-Parceler).
-* [] Utilise le [module de prise en charge de la liaison de données] (http://guides.codepath.com/android/Applying-Data-Binding-for-Views) pour lier des données dans des modèles de présentation.
-* [] Remplacez tous les tirages d'icônes et autres éléments d'image statiques par [vector drawables] (http://guides.codepath.com/android/Drawables#vector-drawables), le cas échéant.
-* [] Remplacer Picasso par [Glide] (http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en) pour un rendu d'image plus efficace.
-* [] Utilise [expressions retrolambda] (http://guides.codepath.com/android/Lambda-Expressions) pour nettoyer les blocs de gestion d'événements.
-* [] Tire parti de la populaire [bibliothèque GSON] (http://guides.codepath.com/android/Using-Android-Async-Http-Client#decoding-with-gson-library) pour rationaliser l'analyse des données JSON.
-* [] Utilise la [bibliothèque de mise à niveau réseau Retrofit] (http://guides.codepath.com/android/Consuming-APIs-with-Retrofit) pour accéder à l'API du New York Times.
-* [] Remplacez le `WebView 'incorporé par [Chrome Custom Tabs] (http://guides.codepath.com/android/Chrome-Custom-Tabs) en utilisant un bouton d'action personnalisé pour le partage. (_ ** 2 points ** _)
-
-Les fonctionnalités ** supplémentaires ** suivantes sont implémentées:
-
-* [] Liste toute autre chose que vous pouvez faire pour améliorer la fonctionnalité de l'application!
 
 ## Procédure pas à pas vidéo
 
