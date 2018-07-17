@@ -6,15 +6,15 @@ Temps passé:  8h au total
 
 La fonctionnalité requise 
 
-* [] L'utilisateur peut ** rechercher un article d'actualité ** en spécifiant une requête et en lançant une recherche. La recherche affiche une grille de résultats d'images de l'API de recherche du New York Times.
-* [] L'utilisateur peut cliquer sur "paramètres" qui permet la sélection de ** options de recherche avancée ** pour filtrer les résultats
+* [] L'utilisateur peut rechercher un article d'actualité  en spécifiant une requête et en lançant une recherche. La recherche affiche une grille de résultats d'images de l'API de recherche du New York Times.
+* [] L'utilisateur peut cliquer sur "paramètres" qui permet la sélection de options de recherche avancée  pour filtrer les résultats
 * [] L'utilisateur peut configurer des filtres de recherche avancés tels que:
   * [] Date de début (en utilisant un sélecteur de date)
   * [] Valeurs de bureau de nouvelles (arts, mode et style, sports)
   * [] Ordre de tri (le plus ancien ou le plus récent)
 * [] Les recherches suivantes ont des filtres appliqués aux résultats de recherche
 * [] L'utilisateur peut appuyer sur n'importe quel article dans les résultats pour afficher le contenu dans un navigateur intégré.
-* [] L'utilisateur peut ** faire défiler vers le bas pour voir plus d'articles **. Le nombre maximal d'articles est limité par la recherche d'API.
+* [] L'utilisateur peut  faire défiler vers le bas pour voir plus d'articles . Le nombre maximal d'articles est limité par la recherche d'API.
 
 
 
