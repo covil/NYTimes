@@ -35,18 +35,4 @@ Décrivez les problèmes rencontrés lors de la création de l'application.
 - [HTTP asynchrone Android] (https://github.com/loopj/android-async-http) - Requêtes HTTP asynchrones simples avec analyse JSON
 - [Picasso] (http://square.github.io/picasso/) - Bibliothèque de chargement et de mise en cache d'images pour Android
 
-## Licence
 
-    Droit d'auteur [yyyy] [nom du titulaire du droit d'auteur]
-
-    Sous licence Apache, Version 2.0 (la "Licence");
-    Vous ne pouvez pas utiliser ce fichier sauf en conformité avec la licence.
-    Vous pouvez obtenir une copie de la licence à
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Sauf si requis par la loi applicable ou convenu par écrit, logiciel
-    distribué sous licence est distribué "TEL QUEL",
-    SANS GARANTIE OU CONDITION D'AUCUNE SORTE, expresse ou implicite.
-    Voir la licence pour la langue spécifique régissant les autorisations et
-    limitations en vertu de la licence.
